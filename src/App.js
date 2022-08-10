@@ -96,7 +96,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <button onClick={addItem}>Add box</button>
+        <button onClick={addItem}>Add Astronaut</button>
         <button onClick={removeBox}>Delete Button</button>
        
 

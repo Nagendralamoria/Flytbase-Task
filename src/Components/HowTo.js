@@ -5,6 +5,7 @@ function HowTo() {
     <div className='howto'>
         Instructions    
         <ul>
+          <li>First select an astronaut then,</li>
             <li>Use W key to move the astronaut up.</li>
             <li>Use S key to move the astronaut  down.</li>
             <li>Use A key to move the astronaut left.</li>
