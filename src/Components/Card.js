@@ -1,5 +1,4 @@
 import React from "react";
-import im1 from '../images/2.png'
 function Card(props) {
   const position = `translate(${props.top}px,${props.left}px)`;
   return (
